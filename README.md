@@ -3,6 +3,8 @@
 
 ## AIM: 
 To create orthographic view of given 3D model
+# NAME.:PRIYA.B
+# REF.NO:24900803
 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
@@ -36,6 +38,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![Screenshot 2024-12-04 205118](https://github.com/user-attachments/assets/960466d5-4305-4584-8048-9b6bf7b54b0f)
 
 
 ## RESULT:
